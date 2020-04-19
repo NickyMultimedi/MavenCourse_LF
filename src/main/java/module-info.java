@@ -1,3 +1,3 @@
 module be.learningfever.mavenLessons {
 
-        }
+}
